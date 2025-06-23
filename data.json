@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Nguyen",
+        "age": 28,
+        "address": "Da Nang"
+    },
+    {
+        "name": "Phuc",
+        "age": 31,
+        "address": "Quang Nam"
+    },
+    {
+        "name": "Minh",
+        "age": 29,
+        "address": "Da Nang"
+    }
+]
